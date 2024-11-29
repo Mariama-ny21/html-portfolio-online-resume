@@ -1,2 +1,2 @@
 # html-portfolio-online-resume
-Entry-Level Developer Online Resume
+Online Resume for Entry-Level Developer 
